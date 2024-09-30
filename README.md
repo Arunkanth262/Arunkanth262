@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arunkanth.P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Full stack**
+
+- 📫 How to reach me **arunkanth262@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/arun_kanth_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun_kanth_7" height="30" width="40" /></a>
